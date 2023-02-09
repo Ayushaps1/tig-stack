@@ -14,7 +14,7 @@ Gain the ability to analyze and monitor telemetry data by deploying the TIG stac
 Clone the project
 
 ```bash
-git clone https://github.com/huntabyte/tig-stack.git
+git clone https://github.com/Ayushaps1/tig-stack.git
 ```
 
 Navigate to the project directory
@@ -47,17 +47,3 @@ Start the services
 ```bash
 docker-compose up -d
 ```
-## Docker Images Used (Official & Verified)
-
-[**Telegraf**](https://hub.docker.com/_/telegraf) / `1.19`
-
-[**InfluxDB**](https://hub.docker.com/_/influxdb) / `2.1.1`
-
-[**Grafana-OSS**](https://hub.docker.com/r/grafana/grafana-oss) / `8.4.3`
-
-
-
-## Contributing
-
-Contributions are always welcome!
-
